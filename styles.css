@@ -14,7 +14,7 @@
 	width:80vw;
 	margin:auto;
 	border:1px solid black;
-	text-align:center
+	
 }
 
 body{
@@ -31,7 +31,9 @@ h1,h2{
 	text-align:center;
 }
 
-video{
-	background-color: rgb(255, 255, 255); 
-	border-radius
+.player_one{
+	width:80vw;
+}
+.player_two{
+	width:80vw
 }
